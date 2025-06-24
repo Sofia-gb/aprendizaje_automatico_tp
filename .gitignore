@@ -2,4 +2,4 @@ logs.log
 .ipynb_checkpoints
 venv-pycaret
 catboost_info
-pkl
+setup_venv.ps1
